@@ -1,0 +1,30 @@
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\bin\Release\NSU.Utilities.Extensions.dll.config
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\bin\Release\NSU.Utilities.Extensions.dll
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\bin\Release\NSU.Utilities.Extensions.pdb
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\bin\Release\EntityFramework.dll
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\bin\Release\EntityFramework.SqlServer.dll
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\bin\Release\Newtonsoft.Json.dll
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\bin\Release\RestSharp.dll
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\bin\Release\EntityFramework.xml
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\bin\Release\EntityFramework.SqlServer.xml
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\bin\Release\Newtonsoft.Json.xml
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\bin\Release\RestSharp.xml
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\obj\Release\NSU.Utilities.Extensions.dll
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\obj\Release\NSU.Utilities.Extensions.pdb
+C:\tfs\NSU\.NET\Libraries\NSU.Utilities.Extensions\Main\obj\Release\NSU.Utilities.Extensions.csprojResolveAssemblyReference.cache
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\bin\Release\NSU.Utilities.Extensions.dll.config
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\bin\Release\NSU.Utilities.Extensions.dll
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\bin\Release\NSU.Utilities.Extensions.pdb
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\bin\Release\EntityFramework.dll
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\bin\Release\EntityFramework.SqlServer.dll
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\bin\Release\Newtonsoft.Json.dll
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\bin\Release\RestSharp.dll
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\bin\Release\EntityFramework.xml
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\bin\Release\EntityFramework.SqlServer.xml
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\bin\Release\Newtonsoft.Json.xml
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\bin\Release\RestSharp.xml
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\obj\Release\NSU.Utilities.Extensions.csprojResolveAssemblyReference.cache
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\obj\Release\NSU.Utilities.Extensions.csproj.CoreCompileInputs.cache
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\obj\Release\NSU.Utilities.Extensions.csproj.CopyComplete
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\obj\Release\NSU.Utilities.Extensions.dll
+E:\Daniel\Library Xamarin\DLLNova\Project Nova\NSU.Utilities.Extensions\NSU.Utilities.Extensions\Main\obj\Release\NSU.Utilities.Extensions.pdb
