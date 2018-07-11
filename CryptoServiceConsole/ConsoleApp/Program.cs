@@ -96,9 +96,9 @@ namespace ConsoleApp
                 test();
                 var data = "Cryptographic example";
                 var pass = "MySecretKey";
-                var eKey = "ASDFCVBFGRHETPOWTOEISJAHSGDTRIEO";
-                var eVec = "KDSLAOIEYRTDGSND";
-                var val = "PR/+kxycXMcINA6OssIrPkI5drh1ukIMYOXew5mQLI+7qDXoiMZg6A==";
+                var eKey = "tt";
+                var eVec = "pp";
+                var val = "aa";
                 byte[] key = Encoding.UTF8.GetBytes(eKey.Substring(0, 8));
                 byte[] iv = Encoding.UTF8.GetBytes(eVec.Substring(0, 8));
                 val = val.Replace(" ", "+");
@@ -107,19 +107,17 @@ namespace ConsoleApp
 
 
                 data = "Examples";
-                string keyd = "ASDFCVBFGRHETPOWTOEISJAHSGDTRIEO".Trim();
-                var Vecd = "KDSLAOIEYRTDGSND".Trim();
+                string keyd = "ss".Trim();
+                var Vecd = "ss".Trim();
 
                 string plasinText = Utilities.Decrypt(val, keyd, Vecd);
 
                 //string cipherText = Utilities.SymmetricEncrypt(data, keyd);
                 //string plainText = Utilities.SymmetricDecrypt(cipherText, keyd);
 
-                var returnvm = callApi<object>(@"https://api.stage.nova.edu/appcentral/identity/instances/0/ad/user?userNameEmailAddress=tt451&createPassword=false", "6423b8e734d88153bee0160226e826b2".Trim(), plasinText);
+                var returnvm = callApi<object>(@"url", "user".Trim(), plasinText);
 
 
-                //Task<object> v = callApi<object>(@"https://api.stage.nova.edu/appcentral/identity/instances/0/ad/user?userNameEmailAddress=tt451&createPassword=false", "6423b8e734d88153bee0160226e826b2".Trim(), "PR/+kxycXMcINA6OssIrPkI5drh1ukIMYOXew5mQLI+7qDXoiMZg6A==".Trim().Decrypt("ASDFCVBFGRHETPOWTOEISJAHSGDTRIEO".Trim(), "KDSLAOIEYRTDGSND".Trim()));
-                //object lst = await returnvm;
 
 
                 Console.ReadKey();
@@ -131,7 +129,7 @@ namespace ConsoleApp
 
 
                 //GetDiaryText(key);
-                //Decrypt("PR/+kxycXMcINA6OssIrPkI5drh1ukIMYOXew5mQLI+7qDXoiMZg6A==","ASDFCVBFGRHETPOWTOEISJAHSGDTRIEO", "KDSLAOIEYRTDGSND");
+                
 
                 //var dkey = CryptoUtilities.StringToByteArray(eKey);
 
@@ -154,8 +152,8 @@ namespace ConsoleApp
             try
             {
                 var s = new SecurityService();
-                string keyd = "ASDFCVBFGRHETPOWTOEISJAHSGDTRIEO".Trim();
-                var Vecd = "KDSLAOIEYRTDGSND".Trim();
+                string keyd = "key".Trim();
+                var Vecd = "vec".Trim();
                 s.Decrypt(Vecd, keyd);
             }
             catch (Exception ex)
